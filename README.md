@@ -23,16 +23,21 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <!-- Skillicons -->
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,bootstrap,mysql,firebase,mongodb,git,github,docker,kubernetes,aws,linux,bash,vscode,flask,spring,jenkins,tensorflow,pytorch,opencv,scala,haskell"/>
-
-  <!-- Custom-styled Oracle DB icon -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" title="Oracle DB" width="40" height="40" style="background: #f3f3f3; padding: 8px; border-radius: 10px; margin: 4px;" />
-
-  <!-- Custom-styled Apache Spark icon -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" title="Apache Spark" width="40" height="40" style="background: #f3f3f3; padding: 8px; border-radius: 10px; margin: 4px;" />
+<a href="https://twitter.com/devdivyendh" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/dev-divyendh-dhinakaran" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
+<a href="https://instagram.com/dev_divyendh" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&style=for-the-badge"/></a>
+<a href="https://www.leetcode.com/devdivyendh" target="_blank"><img src="https://img.shields.io/badge/LeetCode-black?logo=leetcode&style=for-the-badge"/></a>
 </p>
 
+
+---
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,bootstrap,mysql,firebase,mongodb,git,github,docker,kubernetes,aws,linux,bash,vscode,flask,spring,jenkins,tensorflow,pytorch,opencv,scala,haskell"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle DB" alt="Oracle" width="40" height="40"/>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="Apache Spark" alt="Spark" width="40" height="40"/>
+</p>
 
 ---
 
