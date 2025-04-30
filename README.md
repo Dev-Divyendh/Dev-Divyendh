@@ -1,3 +1,72 @@
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--brfACzxO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/6010nu1rjqr2h94d94s0.gif" width="100%"/>
+
+<h1 align="center">Hey there 👋, I'm Dev Divyendh Dhinakaran</h1>
+<h3 align="center">Machine Learning | Cloud & DevOps | Software & Web Developer</h3>
+
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWViMjk1ODUxNGNmMjc2NjM1OWYwZTVkMjI2YTk5NGZlZjc2YzRjMSZjdD1n/RbDKaczqWovIugyJmW/giphy.gif"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-divyendh&label=Profile%20views&color=0e75b6&style=flat" alt="dev-divyendh" /> </p>
+
+- 🚀 Building **cloud-native microservices** using Spring Boot, Docker, Kubernetes, and CI/CD pipelines (Jenkins, GitHub Actions)
+
+- 🌩️ Exploring **scalable data pipelines**, working with SQL/NoSQL (MySQL, Oracle, Firebase, MongoDB)
+
+- 🤖 Passionate about **ethical AI**, **bias mitigation**, and **privacy-preserving machine learning**
+
+- 🧠 Focused on projects in **Recommender Systems**, **Deep Learning**, and **Edge AI** with tools like PyTorch, TensorFlow, Spark, and OpenCV
+
+- 💻 View all my projects here: [github.com/Dev-Divyendh](https://github.com/Dev-Divyendh)
+
+- 📄 [View My Resume](https://dev-divyendh.github.io/My-personal-Website/Dev%20Divyendh%20Dhinakaran%20Resume.pdf)
+
+---
+
+### 🌐 Connect with me:
+<p align="left">
+<a href="https://twitter.com/devdivyendh" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/dev-divyendh-dhinakaran" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
+<a href="https://instagram.com/dev_divyendh" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&style=for-the-badge"/></a>
+<a href="https://www.leetcode.com/devdivyendh" target="_blank"><img src="https://img.shields.io/badge/LeetCode-black?logo=leetcode&style=for-the-badge"/></a>
+</p>
+
+---
+
+### 💻 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,bootstrap,mysql,firebase,mongodb,git,github,docker,kubernetes,aws,linux,tensorflow,pytorch,opencv,vscode,spring"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-divyendh&show_icons=true&theme=react" alt="Dev's GitHub stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-divyendh&theme=react" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-divyendh&layout=compact&theme=react" height="200"/>
+</p>
+
+---
+
+### 🔥 Highlight Projects
+- 🧠 [Efficient Machine Unlearning on CIFAR-10](https://github.com/Dev-Divyendh/Efficient-Machine-Unlearning-on-CIFAR-10)
+- ⚖️ [Bias Mitigation with COMPAS Dataset](https://github.com/Dev-Divyendh/Uncovering-Bias-and-Ensuring-Fairness-A-COMPAS-Algorithm-Analysis)
+- ☁️ [Microservices with Docker, K8s & Jenkins](https://github.com/Dev-Divyendh/Containerizing-Microservices-Using-SpringBoot-Docker-Kubernetes-Jenkins)
+- 🍽️ [Firebase-Powered Food Ordering App](https://github.com/Dev-Divyendh/Door-Dining-A-Food-Ordering-App)
+
+---
+
+_Thank you for visiting my profile!_ 🙌
+
+
+
+
+
+
+
+
+
+<!-- old starts -->
+
 ![logo](https://res.cloudinary.com/practicaldev/image/fetch/s--brfACzxO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/6010nu1rjqr2h94d94s0.gif)
 <h1 align="center">Hello there 👋, I'm Dev Divyendh</h1>
 <h3 align="center">A Machine Learning Enthusiast, Developer and Computer Science Graduate</h3>
