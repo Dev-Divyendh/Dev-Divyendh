@@ -33,8 +33,9 @@
 
 ### 💻 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,bootstrap,mysql,firebase,mongodb,git,github,docker,kubernetes,aws,linux,tensorflow,pytorch,opencv,vscode,spring"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,bootstrap,mysql,oracle,firebase,mongodb,git,github,docker,kubernetes,aws,linux,bash,vscode,flask,spring,jenkins,tensorflow,pytorch,opencv,scala,spark,haskell"/>
 </p>
+
 
 ---
 
@@ -43,7 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dev-divyendh&show_icons=true&theme=react" alt="Dev's GitHub stats" height="200"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-divyendh&theme=react" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-divyendh&layout=compact&theme=react" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-divyendh&layout=compact&theme=react&hide=jupyter%20notebook" height="200"/>
 
 </p>
 
@@ -69,7 +69,7 @@ _Thank you for visiting my profile!_ 🙌
 
 <!-- old starts -->
 
-![logo](https://res.cloudinary.com/practicaldev/image/fetch/s--brfACzxO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/6010nu1rjqr2h94d94s0.gif)
+<!--![logo](https://res.cloudinary.com/practicaldev/image/fetch/s--brfACzxO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/6010nu1rjqr2h94d94s0.gif)
 <h1 align="center">Hello there 👋, I'm Dev Divyendh</h1>
 <h3 align="center">A Machine Learning Enthusiast, Developer and Computer Science Graduate</h3>
 <img align="right" alt="Coding" width="400"  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWViMjk1ODUxNGNmMjc2NjM1OWYwZTVkMjI2YTk5NGZlZjc2YzRjMSZjdD1n/RbDKaczqWovIugyJmW/giphy.gif">
@@ -103,3 +103,4 @@ _Thank you for visiting my profile!_ 🙌
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-divyendh&show_icons=true&locale=en&layout=compact" alt="dev-divyendh" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-divyendh&" alt="dev-divyendh" /></p>
+-->
