@@ -43,6 +43,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dev-divyendh&show_icons=true&theme=react" alt="Dev's GitHub stats" height="200"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-divyendh&theme=react" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-divyendh&layout=compact&theme=react" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-divyendh&layout=compact&theme=react&hide=jupyter%20notebook" height="200"/>
+
 </p>
 
 ---
