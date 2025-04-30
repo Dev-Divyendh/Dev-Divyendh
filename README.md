@@ -33,8 +33,13 @@
 
 ### 💻 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,bootstrap,mysql,oracle,firebase,mongodb,git,github,docker,kubernetes,aws,linux,bash,vscode,flask,spring,jenkins,tensorflow,pytorch,opencv,scala,spark,haskell"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,bootstrap,mysql,firebase,mongodb,git,github,docker,kubernetes,aws,linux,bash,vscode,flask,spring,jenkins,tensorflow,pytorch,opencv,scala,haskell"/>
+  <!-- Manually added Oracle DB -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle DB" width="40" height="40"/>
+  <!-- Manually added Apache Spark -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="70" height="40"/>
 </p>
+
 
 
 ---
