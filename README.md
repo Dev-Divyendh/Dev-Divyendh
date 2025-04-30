@@ -22,13 +22,14 @@
 ---
 
 ### 🌐 Connect with me:
+
 <p align="left">
-<a href="https://twitter.com/devdivyendh" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge"/></a>
-<a href="https://www.linkedin.com/in/dev-divyendh-dhinakaran" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
-<a href="https://instagram.com/dev_divyendh" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&style=for-the-badge"/></a>
-<a href="https://www.leetcode.com/devdivyendh" target="_blank"><img src="https://img.shields.io/badge/LeetCode-black?logo=leetcode&style=for-the-badge"/></a>
+  <a href="mailto:devdivyendh10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/dev-divyendh-dhinakaran" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
+  <a href="https://instagram.com/dev_divyendh" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&style=for-the-badge"/></a>
+  <a href="https://github.com/Dev-Divyendh" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge"/></a>
 </p>
----
+
 
 ### 💻 Tech Stack
 <p>
